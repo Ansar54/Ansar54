@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansar Ul Haq</h1>
 <h3 align="center">A passionate Backend Developer from Pakistan</h3>
-<img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder"  width="400"/>
+<img  align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder"  width="400"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansar54&label=Profile%20views&color=0e75b6&style=flat" alt="ansar54" /> </p>
