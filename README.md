@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **SocialNest**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Web Development,Python,Django,API Development**
+- 💬 Ask me about **Web Development,Python,Backend Fundamentals,API Development,Database Schemas**
 
 - 📫 How to reach me **ansarulhaq.dev@gmail.com**
 
