@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansar54&label=Profile%20views&color=0e75b6&style=flat" alt="ansar54" /> </p>
 
-- 🔭 I’m currently working on **SocialNest**
+- 🔭 I’m currently working on **Inventory Management System**
 
 - 🌱 I’m currently learning **Django**
 
